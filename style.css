@@ -25,13 +25,13 @@ body{
     align-items: center;
     height: 100vh;
     background-color: var(--Light-grayish-blue);
+    margin: 50px 150px;
 }
 .grid{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto;
     gap: 30px;
-    margin: 150px;
 }
 .grid .container{
     border-radius: 10px;
