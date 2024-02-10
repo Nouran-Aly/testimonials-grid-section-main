@@ -71,7 +71,7 @@ body{
     padding: 5px 0 20px 0;
 }
 #top-left{
-    background-image: url("/images/bg-pattern-quotation.svg");
+    background-image: url("./images/bg-pattern-quotation.svg");
     background-repeat: no-repeat;
     background-position: right 20% top 10%;
     background-color: var(--Moderate-violet);
